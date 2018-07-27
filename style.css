@@ -1,0 +1,15 @@
+body{
+    background: black;
+}
+
+
+.header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 65px;
+    color:Red;
+    }
+
+.para{
+    color: teal;
+    font-size: 18px;
+}
